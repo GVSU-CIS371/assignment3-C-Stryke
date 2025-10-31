@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "pinia": "^3.0.1",
+    "pinia": "^3.0.3",
     "pinia-plugin-persistedstate": "^4.2.0",
     "vue": "^3.4.19"
   },
@@ -24,7 +24,7 @@
     "sass": "^1.71.1",
     "sass-embedded": "^1.86.0",
     "typescript": "^5.2.2",
-    "vite": "^6.2.3",
+    "vite": "^6.4.1",
     "vue-tsc": "^2.2.8"
   }
 }
