@@ -54,6 +54,6 @@ export const useBeverageStore = defineStore("BeverageStore", {
 
   },
 
-  persist: true, // still persists via pinia-plugin-persistedstate
+  persist: false, // still persists via pinia-plugin-persistedstate
 });
 
